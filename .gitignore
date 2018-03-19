@@ -1,6 +1,6 @@
 *.pkl
 *.model
 
-**run*/
+run*/
 
 **log/
